@@ -7,9 +7,12 @@
       "icona": "💎",
       "tr": {
         "en": {
-          "nome": "Women - Bracelets"
+          "nome": "Women - Bracelets",
+          "descrizione": "Women's natural stone bracelets with silver beads and an adjustable closure."
         }
-      }
+      },
+      "descrizione": "Bracciali da donna in pietre naturali, con perle d'argento e chiusura regolabile.",
+      "immagine": ""
     },
     {
       "nome": "Donna - Collane",
@@ -17,9 +20,12 @@
       "icona": "💎",
       "tr": {
         "en": {
-          "nome": "Women - Necklaces"
+          "nome": "Women - Necklaces",
+          "descrizione": "Women's natural stone necklaces, wearable short or long."
         }
-      }
+      },
+      "descrizione": "Collane da donna in pietre naturali, da portare corte o lunghe.",
+      "immagine": ""
     },
     {
       "nome": "Donna - Anelli",
@@ -27,9 +33,12 @@
       "icona": "💎",
       "tr": {
         "en": {
-          "nome": "Women - Rings"
+          "nome": "Women - Rings",
+          "descrizione": "925 silver rings set with natural stones."
         }
-      }
+      },
+      "descrizione": "Anelli in argento 925 con pietre naturali.",
+      "immagine": ""
     },
     {
       "nome": "Donna - Orecchini",
@@ -37,9 +46,12 @@
       "icona": "💎",
       "tr": {
         "en": {
-          "nome": "Women - Earrings"
+          "nome": "Women - Earrings",
+          "descrizione": "Earrings with natural stones and silver details."
         }
-      }
+      },
+      "descrizione": "Orecchini con pietre naturali e dettagli in argento.",
+      "immagine": ""
     },
     {
       "nome": "Donna - Pendenti",
@@ -47,9 +59,12 @@
       "icona": "💎",
       "tr": {
         "en": {
-          "nome": "Women - Pendants"
+          "nome": "Women - Pendants",
+          "descrizione": "Natural stone pendants on a fine chain."
         }
-      }
+      },
+      "descrizione": "Pendenti in pietra naturale su catenina.",
+      "immagine": ""
     },
     {
       "nome": "Uomo - Bracciali",
@@ -57,9 +72,12 @@
       "icona": "💎",
       "tr": {
         "en": {
-          "nome": "Men - Bracelets"
+          "nome": "Men - Bracelets",
+          "descrizione": "Men's natural stone bracelets on an adjustable cord."
         }
-      }
+      },
+      "descrizione": "Bracciali da uomo in pietre naturali su cordino regolabile.",
+      "immagine": ""
     },
     {
       "nome": "Uomo - Collane",
@@ -67,9 +85,12 @@
       "icona": "💎",
       "tr": {
         "en": {
-          "nome": "Men - Necklaces"
+          "nome": "Men - Necklaces",
+          "descrizione": "Men's natural stone necklaces with a sober look."
         }
-      }
+      },
+      "descrizione": "Collane da uomo in pietre naturali dal taglio sobrio.",
+      "immagine": ""
     },
     {
       "nome": "Uomo - Anelli",
@@ -77,9 +98,12 @@
       "icona": "💎",
       "tr": {
         "en": {
-          "nome": "Men - Rings"
+          "nome": "Men - Rings",
+          "descrizione": "Men's silver rings set with natural stones."
         }
-      }
+      },
+      "descrizione": "Anelli da uomo in argento con pietre naturali.",
+      "immagine": ""
     },
     {
       "nome": "Coppia",
@@ -87,9 +111,12 @@
       "icona": "💎",
       "tr": {
         "en": {
-          "nome": "Couple"
+          "nome": "Couple",
+          "descrizione": "Matching bracelets to give or wear as a pair."
         }
-      }
+      },
+      "descrizione": "Bracciali coordinati da regalare o da portare in due.",
+      "immagine": ""
     },
     {
       "nome": "Bambini - Bracciali",
@@ -97,9 +124,12 @@
       "icona": "💎",
       "tr": {
         "en": {
-          "nome": "Children - Bracelets"
+          "nome": "Children - Bracelets",
+          "descrizione": "Children's bracelets with coloured stones and an elastic fit."
         }
-      }
+      },
+      "descrizione": "Bracciali per bambini con pietre colorate e chiusura elastica.",
+      "immagine": ""
     },
     {
       "nome": "Bambini - Collane",
@@ -107,9 +137,12 @@
       "icona": "💎",
       "tr": {
         "en": {
-          "nome": "Children - Necklaces"
+          "nome": "Children - Necklaces",
+          "descrizione": "Small natural stone necklaces for children."
         }
-      }
+      },
+      "descrizione": "Collanine per bambini con pietre naturali.",
+      "immagine": ""
     },
     {
       "nome": "Casa - Candele",
@@ -117,9 +150,12 @@
       "icona": "💎",
       "tr": {
         "en": {
-          "nome": "Home - Candles"
+          "nome": "Home - Candles",
+          "descrizione": "Candles with natural stones to set the mood at home."
         }
-      }
+      },
+      "descrizione": "Candele con pietre naturali per l'atmosfera di casa.",
+      "immagine": ""
     },
     {
       "nome": "Casa - Decorazione",
@@ -127,9 +163,12 @@
       "icona": "💎",
       "tr": {
         "en": {
-          "nome": "Home - Decoration"
+          "nome": "Home - Decoration",
+          "descrizione": "Small natural stone carvings to display."
         }
-      }
+      },
+      "descrizione": "Piccole sculture in pietra naturale da appoggio.",
+      "immagine": ""
     },
     {
       "nome": "Casa - Portagioielli",
@@ -137,9 +176,12 @@
       "icona": "💎",
       "tr": {
         "en": {
-          "nome": "Home - Jewellery holders"
+          "nome": "Home - Jewellery holders",
+          "descrizione": "Stone dishes and jewellery holders to keep jewellery tidy."
         }
-      }
+      },
+      "descrizione": "Piattini e portagioielli in pietra per tenere in ordine i gioielli.",
+      "immagine": ""
     },
     {
       "nome": "Casa - Portachiavi",
@@ -147,9 +189,12 @@
       "icona": "💎",
       "tr": {
         "en": {
-          "nome": "Home - Key rings"
+          "nome": "Home - Key rings",
+          "descrizione": "Keyrings with natural stones."
         }
-      }
+      },
+      "descrizione": "Portachiavi con pietre naturali.",
+      "immagine": ""
     },
     {
       "nome": "Casa - Pietre decorative",
@@ -157,9 +202,12 @@
       "icona": "💎",
       "tr": {
         "en": {
-          "nome": "Home - Decorative stones"
+          "nome": "Home - Decorative stones",
+          "descrizione": "Raw and polished stones to collect and display."
         }
-      }
+      },
+      "descrizione": "Pietre grezze e levigate da collezione e da arredo.",
+      "immagine": ""
     },
     {
       "nome": "Casa - Pendoli",
@@ -167,332 +215,335 @@
       "icona": "💎",
       "tr": {
         "en": {
-          "nome": "Home - Pendulums"
+          "nome": "Home - Pendulums",
+          "descrizione": "Natural stone pendulums."
         }
-      }
+      },
+      "descrizione": "Pendoli in pietra naturale.",
+      "immagine": ""
     }
   ],
   "prodotti": [
     {
       "tipo": "fisico",
-      "id": "donna-bracciali-1",
-      "nome": "Donna - Bracciali (da definire)",
+      "id": "bracciale-ametista-argento",
+      "nome": "Bracciale Ametista e perle d'argento",
       "categoria": "donna-bracciali",
-      "prezzo_centesimi": 0,
-      "descrizione": "Scheda da completare.",
-      "descrizione_completa": "Scheda da completare.",
-      "immagine": "",
+      "prezzo_centesimi": 6400,
+      "descrizione": "Bracciale in perle di ametista da 6 mm con piccole perle in argento, su cordino di cotone.",
+      "descrizione_completa": "Bracciale in perle di ametista da 6 mm con piccole perle in argento, su cordino di cotone.\nPietre naturali, ogni pezzo puo' avere piccole differenze di colore e venatura.\nFatto a mano.",
+      "immagine": "assets/images/prodotti/bracciale-ametista-argento.webp",
       "icona": "💎",
-      "visibile": false,
+      "visibile": true,
       "tr": {
         "en": {
-          "nome": "Women - Bracelets (to be defined)",
-          "descrizione": "Listing to be completed.",
-          "descrizione_completa": "Listing to be completed."
+          "nome": "Amethyst and silver bead bracelet",
+          "descrizione": "Bracelet of 6 mm amethyst beads with small silver beads, on a cotton cord.",
+          "descrizione_completa": "Bracelet of 6 mm amethyst beads with small silver beads, on a cotton cord.\nNatural stones: each piece may show slight differences in colour and veining.\nHandmade."
         }
       }
     },
     {
       "tipo": "fisico",
-      "id": "donna-collane-1",
-      "nome": "Donna - Collane (da definire)",
+      "id": "collana-tormalina-stella",
+      "nome": "Collana Tormalina con stella in argento 925",
       "categoria": "donna-collane",
-      "prezzo_centesimi": 0,
-      "descrizione": "Scheda da completare.",
-      "descrizione_completa": "Scheda da completare.",
-      "immagine": "",
+      "prezzo_centesimi": 12800,
+      "descrizione": "Collana di perle di tormalina colorata con pendente a stella in argento 925. Lunghezza regolabile.",
+      "descrizione_completa": "Collana di perle di tormalina colorata con pendente a stella in argento 925. Lunghezza regolabile.\nPietre naturali, ogni pezzo puo' avere piccole differenze di colore e venatura.\nFatto a mano.",
+      "immagine": "assets/images/prodotti/collana-tormalina-stella.webp",
       "icona": "💎",
-      "visibile": false,
+      "visibile": true,
       "tr": {
         "en": {
-          "nome": "Women - Necklaces (to be defined)",
-          "descrizione": "Listing to be completed.",
-          "descrizione_completa": "Listing to be completed."
+          "nome": "Tourmaline necklace with 925 silver star",
+          "descrizione": "Necklace of coloured tourmaline beads with a 925 silver star pendant. Adjustable length.",
+          "descrizione_completa": "Necklace of coloured tourmaline beads with a 925 silver star pendant. Adjustable length.\nNatural stones: each piece may show slight differences in colour and veining.\nHandmade."
         }
       }
     },
     {
       "tipo": "fisico",
-      "id": "donna-anelli-1",
-      "nome": "Donna - Anelli (da definire)",
+      "id": "anello-peridoto-argento",
+      "nome": "Anello in argento 925 con due peridoti",
       "categoria": "donna-anelli",
-      "prezzo_centesimi": 0,
-      "descrizione": "Scheda da completare.",
-      "descrizione_completa": "Scheda da completare.",
-      "immagine": "",
+      "prezzo_centesimi": 14800,
+      "descrizione": "Anello in argento 925 con due peridoti verdi. Pezzo da confermare nelle misure disponibili.",
+      "descrizione_completa": "Anello in argento 925 con due peridoti verdi. Pezzo da confermare nelle misure disponibili.\nPietre naturali, ogni pezzo puo' avere piccole differenze di colore e venatura.\nFatto a mano.",
+      "immagine": "assets/images/prodotti/anello-peridoto-argento.webp",
       "icona": "💎",
-      "visibile": false,
+      "visibile": true,
       "tr": {
         "en": {
-          "nome": "Women - Rings (to be defined)",
-          "descrizione": "Listing to be completed.",
-          "descrizione_completa": "Listing to be completed."
+          "nome": "925 silver ring with two peridots",
+          "descrizione": "925 silver ring set with two green peridots. Available sizes to be confirmed.",
+          "descrizione_completa": "925 silver ring set with two green peridots. Available sizes to be confirmed.\nNatural stones: each piece may show slight differences in colour and veining.\nHandmade."
         }
       }
     },
     {
       "tipo": "fisico",
-      "id": "donna-orecchini-1",
-      "nome": "Donna - Orecchini (da definire)",
+      "id": "orecchini-quarzo-rosa",
+      "nome": "Orecchini Quarzo Rosa",
       "categoria": "donna-orecchini",
-      "prezzo_centesimi": 0,
-      "descrizione": "Scheda da completare.",
-      "descrizione_completa": "Scheda da completare.",
-      "immagine": "",
+      "prezzo_centesimi": 4800,
+      "descrizione": "Orecchini pendenti con gocce di quarzo rosa e ganci in argento.",
+      "descrizione_completa": "Orecchini pendenti con gocce di quarzo rosa e ganci in argento.\nPietre naturali, ogni pezzo puo' avere piccole differenze di colore e venatura.\nFatto a mano.",
+      "immagine": "assets/images/prodotti/orecchini-quarzo-rosa.webp",
       "icona": "💎",
-      "visibile": false,
+      "visibile": true,
       "tr": {
         "en": {
-          "nome": "Women - Earrings (to be defined)",
-          "descrizione": "Listing to be completed.",
-          "descrizione_completa": "Listing to be completed."
+          "nome": "Rose quartz earrings",
+          "descrizione": "Drop earrings with rose quartz teardrops and silver hooks.",
+          "descrizione_completa": "Drop earrings with rose quartz teardrops and silver hooks.\nNatural stones: each piece may show slight differences in colour and veining.\nHandmade."
         }
       }
     },
     {
       "tipo": "fisico",
-      "id": "donna-pendenti-1",
-      "nome": "Donna - Pendenti (da definire)",
+      "id": "pendente-lapislazzuli",
+      "nome": "Pendente Lapislazzuli",
       "categoria": "donna-pendenti",
-      "prezzo_centesimi": 0,
-      "descrizione": "Scheda da completare.",
-      "descrizione_completa": "Scheda da completare.",
-      "immagine": "",
+      "prezzo_centesimi": 5800,
+      "descrizione": "Pendente in lapislazzuli blu intenso con catenina in argento.",
+      "descrizione_completa": "Pendente in lapislazzuli blu intenso con catenina in argento.\nPietre naturali, ogni pezzo puo' avere piccole differenze di colore e venatura.\nFatto a mano.",
+      "immagine": "assets/images/prodotti/pendente-lapislazzuli.webp",
       "icona": "💎",
-      "visibile": false,
+      "visibile": true,
       "tr": {
         "en": {
-          "nome": "Women - Pendants (to be defined)",
-          "descrizione": "Listing to be completed.",
-          "descrizione_completa": "Listing to be completed."
+          "nome": "Lapis lazuli pendant",
+          "descrizione": "Deep blue lapis lazuli pendant with a silver chain.",
+          "descrizione_completa": "Deep blue lapis lazuli pendant with a silver chain.\nNatural stones: each piece may show slight differences in colour and veining.\nHandmade."
         }
       }
     },
     {
       "tipo": "fisico",
-      "id": "uomo-bracciali-1",
-      "nome": "Uomo - Bracciali (da definire)",
+      "id": "bracciale-uomo-occhio-di-tigre",
+      "nome": "Bracciale uomo Occhio di Tigre e croce",
       "categoria": "uomo-bracciali",
-      "prezzo_centesimi": 0,
-      "descrizione": "Scheda da completare.",
-      "descrizione_completa": "Scheda da completare.",
-      "immagine": "",
+      "prezzo_centesimi": 6200,
+      "descrizione": "Bracciale da uomo con cilindri di occhio di tigre e croce centrale, su cordino nero regolabile.",
+      "descrizione_completa": "Bracciale da uomo con cilindri di occhio di tigre e croce centrale, su cordino nero regolabile.\nPietre naturali, ogni pezzo puo' avere piccole differenze di colore e venatura.\nFatto a mano.",
+      "immagine": "assets/images/prodotti/bracciale-uomo-occhio-di-tigre.webp",
       "icona": "💎",
-      "visibile": false,
+      "visibile": true,
       "tr": {
         "en": {
-          "nome": "Men - Bracelets (to be defined)",
-          "descrizione": "Listing to be completed.",
-          "descrizione_completa": "Listing to be completed."
+          "nome": "Men's tiger eye bracelet with cross",
+          "descrizione": "Men's bracelet with tiger eye cylinders and a central cross, on an adjustable black cord.",
+          "descrizione_completa": "Men's bracelet with tiger eye cylinders and a central cross, on an adjustable black cord.\nNatural stones: each piece may show slight differences in colour and veining.\nHandmade."
         }
       }
     },
     {
       "tipo": "fisico",
-      "id": "uomo-collane-1",
-      "nome": "Uomo - Collane (da definire)",
+      "id": "collana-uomo-ossidiana",
+      "nome": "Collana uomo Ossidiana nera",
       "categoria": "uomo-collane",
-      "prezzo_centesimi": 0,
-      "descrizione": "Scheda da completare.",
-      "descrizione_completa": "Scheda da completare.",
-      "immagine": "",
+      "prezzo_centesimi": 7800,
+      "descrizione": "Collana da uomo con perle di ossidiana nera lucida e chiusura in acciaio.",
+      "descrizione_completa": "Collana da uomo con perle di ossidiana nera lucida e chiusura in acciaio.\nPietre naturali, ogni pezzo puo' avere piccole differenze di colore e venatura.\nFatto a mano.",
+      "immagine": "assets/images/prodotti/collana-uomo-ossidiana.webp",
       "icona": "💎",
-      "visibile": false,
+      "visibile": true,
       "tr": {
         "en": {
-          "nome": "Men - Necklaces (to be defined)",
-          "descrizione": "Listing to be completed.",
-          "descrizione_completa": "Listing to be completed."
+          "nome": "Men's black obsidian necklace",
+          "descrizione": "Men's necklace of polished black obsidian beads with a steel clasp.",
+          "descrizione_completa": "Men's necklace of polished black obsidian beads with a steel clasp.\nNatural stones: each piece may show slight differences in colour and veining.\nHandmade."
         }
       }
     },
     {
       "tipo": "fisico",
-      "id": "uomo-anelli-1",
-      "nome": "Uomo - Anelli (da definire)",
+      "id": "anello-uomo-onice",
+      "nome": "Anello uomo Onice nero in argento",
       "categoria": "uomo-anelli",
-      "prezzo_centesimi": 0,
-      "descrizione": "Scheda da completare.",
-      "descrizione_completa": "Scheda da completare.",
+      "prezzo_centesimi": 9800,
+      "descrizione": "Anello da uomo in argento con onice nero. Misure da confermare.",
+      "descrizione_completa": "Anello da uomo in argento con onice nero. Misure da confermare.\nPietre naturali, ogni pezzo puo' avere piccole differenze di colore e venatura.\nFatto a mano.",
       "immagine": "",
       "icona": "💎",
-      "visibile": false,
+      "visibile": true,
       "tr": {
         "en": {
-          "nome": "Men - Rings (to be defined)",
-          "descrizione": "Listing to be completed.",
-          "descrizione_completa": "Listing to be completed."
+          "nome": "Men's black onyx silver ring",
+          "descrizione": "Men's silver ring with black onyx. Sizes to be confirmed.",
+          "descrizione_completa": "Men's silver ring with black onyx. Sizes to be confirmed.\nNatural stones: each piece may show slight differences in colour and veining.\nHandmade."
         }
       }
     },
     {
       "tipo": "fisico",
-      "id": "coppia-1",
-      "nome": "Coppia (da definire)",
+      "id": "bracciali-coppia-lava-occhio-di-tigre",
+      "nome": "Set bracciali di coppia Pietra lavica e Occhio di Tigre",
       "categoria": "coppia",
-      "prezzo_centesimi": 0,
-      "descrizione": "Scheda da completare.",
-      "descrizione_completa": "Scheda da completare.",
+      "prezzo_centesimi": 8800,
+      "descrizione": "Due bracciali coordinati: uno in pietra lavica, uno in occhio di tigre. Taglia regolabile.",
+      "descrizione_completa": "Due bracciali coordinati: uno in pietra lavica, uno in occhio di tigre. Taglia regolabile.\nPietre naturali, ogni pezzo puo' avere piccole differenze di colore e venatura.\nFatto a mano.",
       "immagine": "",
       "icona": "💎",
-      "visibile": false,
+      "visibile": true,
       "tr": {
         "en": {
-          "nome": "Couple (to be defined)",
-          "descrizione": "Listing to be completed.",
-          "descrizione_completa": "Listing to be completed."
+          "nome": "Couple's bracelet set, lava stone and tiger eye",
+          "descrizione": "Two matching bracelets: one in lava stone, one in tiger eye. Adjustable size.",
+          "descrizione_completa": "Two matching bracelets: one in lava stone, one in tiger eye. Adjustable size.\nNatural stones: each piece may show slight differences in colour and veining.\nHandmade."
         }
       }
     },
     {
       "tipo": "fisico",
-      "id": "bambini-bracciali-1",
-      "nome": "Bambini - Bracciali (da definire)",
+      "id": "bracciale-bambini-quarzo-ametista",
+      "nome": "Bracciale bambini Quarzo Rosa e Ametista",
       "categoria": "bambini-bracciali",
-      "prezzo_centesimi": 0,
-      "descrizione": "Scheda da completare.",
-      "descrizione_completa": "Scheda da completare.",
+      "prezzo_centesimi": 3200,
+      "descrizione": "Bracciale per bambini con perle piccole di quarzo rosa e ametista, su filo elastico.",
+      "descrizione_completa": "Bracciale per bambini con perle piccole di quarzo rosa e ametista, su filo elastico.\nPietre naturali, ogni pezzo puo' avere piccole differenze di colore e venatura.\nFatto a mano.",
       "immagine": "",
       "icona": "💎",
-      "visibile": false,
+      "visibile": true,
       "tr": {
         "en": {
-          "nome": "Children - Bracelets (to be defined)",
-          "descrizione": "Listing to be completed.",
-          "descrizione_completa": "Listing to be completed."
+          "nome": "Children's rose quartz and amethyst bracelet",
+          "descrizione": "Children's bracelet with small rose quartz and amethyst beads on elastic thread.",
+          "descrizione_completa": "Children's bracelet with small rose quartz and amethyst beads on elastic thread.\nNatural stones: each piece may show slight differences in colour and veining.\nHandmade."
         }
       }
     },
     {
       "tipo": "fisico",
-      "id": "bambini-collane-1",
-      "nome": "Bambini - Collane (da definire)",
+      "id": "collana-bambini-agata-azzurra",
+      "nome": "Collana bambini Agata Blue Lace",
       "categoria": "bambini-collane",
-      "prezzo_centesimi": 0,
-      "descrizione": "Scheda da completare.",
-      "descrizione_completa": "Scheda da completare.",
+      "prezzo_centesimi": 3800,
+      "descrizione": "Collanina per bambini con perle di agata blue lace e chiusura di sicurezza.",
+      "descrizione_completa": "Collanina per bambini con perle di agata blue lace e chiusura di sicurezza.\nPietre naturali, ogni pezzo puo' avere piccole differenze di colore e venatura.\nFatto a mano.",
       "immagine": "",
       "icona": "💎",
-      "visibile": false,
+      "visibile": true,
       "tr": {
         "en": {
-          "nome": "Children - Necklaces (to be defined)",
-          "descrizione": "Listing to be completed.",
-          "descrizione_completa": "Listing to be completed."
+          "nome": "Children's blue lace agate necklace",
+          "descrizione": "Small necklace for children with blue lace agate beads and a safety clasp.",
+          "descrizione_completa": "Small necklace for children with blue lace agate beads and a safety clasp.\nNatural stones: each piece may show slight differences in colour and veining.\nHandmade."
         }
       }
     },
     {
       "tipo": "fisico",
-      "id": "casa-candele-1",
-      "nome": "Casa - Candele (da definire)",
+      "id": "candela-quarzo-rosa",
+      "nome": "Candela con Quarzo Rosa",
       "categoria": "casa-candele",
-      "prezzo_centesimi": 0,
-      "descrizione": "Scheda da completare.",
-      "descrizione_completa": "Scheda da completare.",
+      "prezzo_centesimi": 2400,
+      "descrizione": "Candela in vasetto di vetro decorata con piccole pietre di quarzo rosa.",
+      "descrizione_completa": "Candela in vasetto di vetro decorata con piccole pietre di quarzo rosa.\nPietre naturali, ogni pezzo puo' avere piccole differenze di colore e venatura.\nFatto a mano.",
       "immagine": "",
       "icona": "💎",
-      "visibile": false,
+      "visibile": true,
       "tr": {
         "en": {
-          "nome": "Home - Candles (to be defined)",
-          "descrizione": "Listing to be completed.",
-          "descrizione_completa": "Listing to be completed."
+          "nome": "Rose quartz candle",
+          "descrizione": "Candle in a glass jar decorated with small rose quartz stones.",
+          "descrizione_completa": "Candle in a glass jar decorated with small rose quartz stones.\nNatural stones: each piece may show slight differences in colour and veining.\nHandmade."
         }
       }
     },
     {
       "tipo": "fisico",
-      "id": "casa-decorazione-1",
-      "nome": "Casa - Decorazione (da definire)",
+      "id": "elefante-ametista",
+      "nome": "Elefante in Ametista da appoggio",
       "categoria": "casa-decorazione",
-      "prezzo_centesimi": 0,
-      "descrizione": "Scheda da completare.",
-      "descrizione_completa": "Scheda da completare.",
+      "prezzo_centesimi": 3800,
+      "descrizione": "Elefante scolpito in ametista, da appoggio. Circa 5 x 3 cm.",
+      "descrizione_completa": "Elefante scolpito in ametista, da appoggio. Circa 5 x 3 cm.\nPietre naturali, ogni pezzo puo' avere piccole differenze di colore e venatura.\nFatto a mano.",
       "immagine": "",
       "icona": "💎",
-      "visibile": false,
+      "visibile": true,
       "tr": {
         "en": {
-          "nome": "Home - Decoration (to be defined)",
-          "descrizione": "Listing to be completed.",
-          "descrizione_completa": "Listing to be completed."
+          "nome": "Amethyst elephant carving",
+          "descrizione": "Elephant carved in amethyst, to display. About 5 x 3 cm.",
+          "descrizione_completa": "Elephant carved in amethyst, to display. About 5 x 3 cm.\nNatural stones: each piece may show slight differences in colour and veining.\nHandmade."
         }
       }
     },
     {
       "tipo": "fisico",
-      "id": "casa-portagioielli-1",
-      "nome": "Casa - Portagioielli (da definire)",
+      "id": "piattino-agata",
+      "nome": "Piattino portagioielli in Agata",
       "categoria": "casa-portagioielli",
-      "prezzo_centesimi": 0,
-      "descrizione": "Scheda da completare.",
-      "descrizione_completa": "Scheda da completare.",
+      "prezzo_centesimi": 3400,
+      "descrizione": "Piattino ricavato da una fetta di agata, con bordo dorato, per anelli e orecchini.",
+      "descrizione_completa": "Piattino ricavato da una fetta di agata, con bordo dorato, per anelli e orecchini.\nPietre naturali, ogni pezzo puo' avere piccole differenze di colore e venatura.\nFatto a mano.",
       "immagine": "",
       "icona": "💎",
-      "visibile": false,
+      "visibile": true,
       "tr": {
         "en": {
-          "nome": "Home - Jewellery holders (to be defined)",
-          "descrizione": "Listing to be completed.",
-          "descrizione_completa": "Listing to be completed."
+          "nome": "Agate jewellery dish",
+          "descrizione": "Dish made from a slice of agate with a gilded edge, for rings and earrings.",
+          "descrizione_completa": "Dish made from a slice of agate with a gilded edge, for rings and earrings.\nNatural stones: each piece may show slight differences in colour and veining.\nHandmade."
         }
       }
     },
     {
       "tipo": "fisico",
-      "id": "casa-portachiavi-1",
-      "nome": "Casa - Portachiavi (da definire)",
+      "id": "portachiavi-occhio-di-tigre",
+      "nome": "Portachiavi Occhio di Tigre",
       "categoria": "casa-portachiavi",
-      "prezzo_centesimi": 0,
-      "descrizione": "Scheda da completare.",
-      "descrizione_completa": "Scheda da completare.",
+      "prezzo_centesimi": 1800,
+      "descrizione": "Portachiavi con perle di occhio di tigre e anello in metallo.",
+      "descrizione_completa": "Portachiavi con perle di occhio di tigre e anello in metallo.\nPietre naturali, ogni pezzo puo' avere piccole differenze di colore e venatura.\nFatto a mano.",
       "immagine": "",
       "icona": "💎",
-      "visibile": false,
+      "visibile": true,
       "tr": {
         "en": {
-          "nome": "Home - Key rings (to be defined)",
-          "descrizione": "Listing to be completed.",
-          "descrizione_completa": "Listing to be completed."
+          "nome": "Tiger eye keyring",
+          "descrizione": "Keyring with tiger eye beads and a metal ring.",
+          "descrizione_completa": "Keyring with tiger eye beads and a metal ring.\nNatural stones: each piece may show slight differences in colour and veining.\nHandmade."
         }
       }
     },
     {
       "tipo": "fisico",
-      "id": "casa-pietre-1",
-      "nome": "Casa - Pietre decorative (da definire)",
+      "id": "punta-cristallo-di-rocca",
+      "nome": "Punta in Cristallo di Rocca",
       "categoria": "casa-pietre",
-      "prezzo_centesimi": 0,
-      "descrizione": "Scheda da completare.",
-      "descrizione_completa": "Scheda da completare.",
+      "prezzo_centesimi": 2800,
+      "descrizione": "Punta di cristallo di rocca naturale, pezzo unico da collezione o da arredo.",
+      "descrizione_completa": "Punta di cristallo di rocca naturale, pezzo unico da collezione o da arredo.\nPietre naturali, ogni pezzo puo' avere piccole differenze di colore e venatura.\nFatto a mano.",
       "immagine": "",
       "icona": "💎",
-      "visibile": false,
+      "visibile": true,
       "tr": {
         "en": {
-          "nome": "Home - Decorative stones (to be defined)",
-          "descrizione": "Listing to be completed.",
-          "descrizione_completa": "Listing to be completed."
+          "nome": "Clear quartz point",
+          "descrizione": "Natural clear quartz point, a unique piece to collect or display.",
+          "descrizione_completa": "Natural clear quartz point, a unique piece to collect or display.\nNatural stones: each piece may show slight differences in colour and veining.\nHandmade."
         }
       }
     },
     {
       "tipo": "fisico",
-      "id": "casa-pendoli-1",
-      "nome": "Casa - Pendoli (da definire)",
+      "id": "pendolo-ametista",
+      "nome": "Pendolo in Ametista",
       "categoria": "casa-pendoli",
-      "prezzo_centesimi": 0,
-      "descrizione": "Scheda da completare.",
-      "descrizione_completa": "Scheda da completare.",
+      "prezzo_centesimi": 2600,
+      "descrizione": "Pendolo in ametista sfaccettata con catenina e anello in metallo.",
+      "descrizione_completa": "Pendolo in ametista sfaccettata con catenina e anello in metallo.\nPietre naturali, ogni pezzo puo' avere piccole differenze di colore e venatura.\nFatto a mano.",
       "immagine": "",
       "icona": "💎",
-      "visibile": false,
+      "visibile": true,
       "tr": {
         "en": {
-          "nome": "Home - Pendulums (to be defined)",
-          "descrizione": "Listing to be completed.",
-          "descrizione_completa": "Listing to be completed."
+          "nome": "Amethyst pendulum",
+          "descrizione": "Faceted amethyst pendulum with a chain and metal ring.",
+          "descrizione_completa": "Faceted amethyst pendulum with a chain and metal ring.\nNatural stones: each piece may show slight differences in colour and veining.\nHandmade."
         }
       }
     }
