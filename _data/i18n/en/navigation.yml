@@ -1,8 +1,16 @@
 main:
   - title: "Home"
     url: /en/
-  - title: "Jewellery"
-    url: /en/shop/
+  - title: "Women"
+    url: /en/shop/category/women-bracelets/
+  - title: "Men"
+    url: /en/shop/category/men-bracelets/
+  - title: "Couple"
+    url: /en/shop/category/couple/
+  - title: "Children"
+    url: /en/shop/category/children-bracelets/
+  - title: "Home"
+    url: /en/shop/category/home-candles/
   - title: "Stones"
     url: /en/stones/
   - title: "Blog"

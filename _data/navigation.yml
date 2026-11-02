@@ -10,8 +10,16 @@
 main:
   - title: "Home"
     url: /
-  - title: "Gioielli"
-    url: /negozio/
+  - title: "Donna"
+    url: /negozio/categoria/donna-bracciali/
+  - title: "Uomo"
+    url: /negozio/categoria/uomo-bracciali/
+  - title: "Coppia"
+    url: /negozio/categoria/coppia/
+  - title: "Bambini"
+    url: /negozio/categoria/bambini-bracciali/
+  - title: "Casa"
+    url: /negozio/categoria/casa-candele/
   - title: "Pietre"
     url: /pietre/
   - title: "Blog"

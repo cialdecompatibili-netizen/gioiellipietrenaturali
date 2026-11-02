@@ -32,17 +32,58 @@
 # Documentazione del funzionamento: commento in testa a _includes/masthead.html.
 # =====================================================================================
 
-Gioielli:
-  - title: "Donna"
-    url: /negozio/categoria/donna/
-  - title: "Uomo"
-    url: /negozio/categoria/uomo/
-  - title: "Coppia"
-    url: /negozio/categoria/coppia/
-  - title: "Bambini"
-    url: /negozio/categoria/bambini/
-  - title: "Casa"
-    url: /negozio/categoria/casa/
-  - divider: true
-  - title: "Tutto il negozio"
-    url: /negozio/
+Donna:
+  - title: "Bracciali"
+    url: /negozio/categoria/donna-bracciali/
+  - title: "Collane"
+    url: /negozio/categoria/donna-collane/
+  - title: "Anelli"
+    url: /negozio/categoria/donna-anelli/
+  - title: "Orecchini"
+    url: /negozio/categoria/donna-orecchini/
+  - title: "Pendenti"
+    url: /negozio/categoria/donna-pendenti/
+
+Uomo:
+  - title: "Bracciali"
+    url: /negozio/categoria/uomo-bracciali/
+  - title: "Collane"
+    url: /negozio/categoria/uomo-collane/
+  - title: "Anelli"
+    url: /negozio/categoria/uomo-anelli/
+
+Bambini:
+  - title: "Bracciali"
+    url: /negozio/categoria/bambini-bracciali/
+  - title: "Collane"
+    url: /negozio/categoria/bambini-collane/
+
+Casa:
+  - title: "Candele"
+    url: /negozio/categoria/casa-candele/
+  - title: "Decorazione"
+    url: /negozio/categoria/casa-decorazione/
+  - title: "Portagioielli"
+    url: /negozio/categoria/casa-portagioielli/
+  - title: "Portachiavi"
+    url: /negozio/categoria/casa-portachiavi/
+  - title: "Pietre decorative"
+    url: /negozio/categoria/casa-pietre/
+  - title: "Pendoli"
+    url: /negozio/categoria/casa-pendoli/
+
+Pietre:
+  - title: "Guida alle pietre"
+    url: /pietre/
+  - title: "Pietre A-C"
+    url: /pietre/a-c/
+  - title: "Pietre D-L"
+    url: /pietre/d-l/
+  - title: "Pietre M-Q"
+    url: /pietre/m-q/
+  - title: "Pietre R-Z"
+    url: /pietre/r-z/
+  - title: "I 7 chakra"
+    url: /pietre/chakra/
+  - title: "Significati tradizionali"
+    url: /pietre/significati/

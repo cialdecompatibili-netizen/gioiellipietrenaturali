@@ -2,22 +2,82 @@
   "_nota": "Catalogo dello shop (serve solo con ecommerce: true in _config.yml). Prezzi in CENTESIMI. Ogni prodotto/categoria ha anche una pagina in _negozio/ (layout negozio-prodotto con pid=<id>, negozio-categoria con cid=<id>). L'id categoria e' riservato. tipo: digitale (niente spedizione) o fisico. visibile:false nasconde senza cancellare. TRADUZIONI: ogni categoria/prodotto puo' avere \"tr\": {\"en\": {\"nome\": \"...\", \"descrizione\": \"...\", \"descrizione_completa\": \"...\"}}; campo mancante = si usa l'italiano.",
   "categorie": [
     {
-      "nome": "Donna",
-      "id": "donna",
+      "nome": "Donna - Bracciali",
+      "id": "donna-bracciali",
       "icona": "💎",
       "tr": {
         "en": {
-          "nome": "Women"
+          "nome": "Women - Bracelets"
         }
       }
     },
     {
-      "nome": "Uomo",
-      "id": "uomo",
+      "nome": "Donna - Collane",
+      "id": "donna-collane",
       "icona": "💎",
       "tr": {
         "en": {
-          "nome": "Men"
+          "nome": "Women - Necklaces"
+        }
+      }
+    },
+    {
+      "nome": "Donna - Anelli",
+      "id": "donna-anelli",
+      "icona": "💎",
+      "tr": {
+        "en": {
+          "nome": "Women - Rings"
+        }
+      }
+    },
+    {
+      "nome": "Donna - Orecchini",
+      "id": "donna-orecchini",
+      "icona": "💎",
+      "tr": {
+        "en": {
+          "nome": "Women - Earrings"
+        }
+      }
+    },
+    {
+      "nome": "Donna - Pendenti",
+      "id": "donna-pendenti",
+      "icona": "💎",
+      "tr": {
+        "en": {
+          "nome": "Women - Pendants"
+        }
+      }
+    },
+    {
+      "nome": "Uomo - Bracciali",
+      "id": "uomo-bracciali",
+      "icona": "💎",
+      "tr": {
+        "en": {
+          "nome": "Men - Bracelets"
+        }
+      }
+    },
+    {
+      "nome": "Uomo - Collane",
+      "id": "uomo-collane",
+      "icona": "💎",
+      "tr": {
+        "en": {
+          "nome": "Men - Necklaces"
+        }
+      }
+    },
+    {
+      "nome": "Uomo - Anelli",
+      "id": "uomo-anelli",
+      "icona": "💎",
+      "tr": {
+        "en": {
+          "nome": "Men - Rings"
         }
       }
     },
@@ -32,22 +92,82 @@
       }
     },
     {
-      "nome": "Bambini",
-      "id": "bambini",
+      "nome": "Bambini - Bracciali",
+      "id": "bambini-bracciali",
       "icona": "💎",
       "tr": {
         "en": {
-          "nome": "Children"
+          "nome": "Children - Bracelets"
         }
       }
     },
     {
-      "nome": "Casa",
-      "id": "casa",
+      "nome": "Bambini - Collane",
+      "id": "bambini-collane",
       "icona": "💎",
       "tr": {
         "en": {
-          "nome": "Home"
+          "nome": "Children - Necklaces"
+        }
+      }
+    },
+    {
+      "nome": "Casa - Candele",
+      "id": "casa-candele",
+      "icona": "💎",
+      "tr": {
+        "en": {
+          "nome": "Home - Candles"
+        }
+      }
+    },
+    {
+      "nome": "Casa - Decorazione",
+      "id": "casa-decorazione",
+      "icona": "💎",
+      "tr": {
+        "en": {
+          "nome": "Home - Decoration"
+        }
+      }
+    },
+    {
+      "nome": "Casa - Portagioielli",
+      "id": "casa-portagioielli",
+      "icona": "💎",
+      "tr": {
+        "en": {
+          "nome": "Home - Jewellery holders"
+        }
+      }
+    },
+    {
+      "nome": "Casa - Portachiavi",
+      "id": "casa-portachiavi",
+      "icona": "💎",
+      "tr": {
+        "en": {
+          "nome": "Home - Key rings"
+        }
+      }
+    },
+    {
+      "nome": "Casa - Pietre decorative",
+      "id": "casa-pietre",
+      "icona": "💎",
+      "tr": {
+        "en": {
+          "nome": "Home - Decorative stones"
+        }
+      }
+    },
+    {
+      "nome": "Casa - Pendoli",
+      "id": "casa-pendoli",
+      "icona": "💎",
+      "tr": {
+        "en": {
+          "nome": "Home - Pendulums"
         }
       }
     }
@@ -55,9 +175,9 @@
   "prodotti": [
     {
       "tipo": "fisico",
-      "id": "donna-1",
-      "nome": "Gioiello donna (da definire)",
-      "categoria": "donna",
+      "id": "donna-bracciali-1",
+      "nome": "Donna - Bracciali (da definire)",
+      "categoria": "donna-bracciali",
       "prezzo_centesimi": 0,
       "descrizione": "Scheda da completare.",
       "descrizione_completa": "Scheda da completare.",
@@ -66,7 +186,7 @@
       "visibile": false,
       "tr": {
         "en": {
-          "nome": "Women piece (to be defined)",
+          "nome": "Women - Bracelets (to be defined)",
           "descrizione": "Listing to be completed.",
           "descrizione_completa": "Listing to be completed."
         }
@@ -74,9 +194,9 @@
     },
     {
       "tipo": "fisico",
-      "id": "uomo-1",
-      "nome": "Gioiello uomo (da definire)",
-      "categoria": "uomo",
+      "id": "donna-collane-1",
+      "nome": "Donna - Collane (da definire)",
+      "categoria": "donna-collane",
       "prezzo_centesimi": 0,
       "descrizione": "Scheda da completare.",
       "descrizione_completa": "Scheda da completare.",
@@ -85,7 +205,121 @@
       "visibile": false,
       "tr": {
         "en": {
-          "nome": "Men piece (to be defined)",
+          "nome": "Women - Necklaces (to be defined)",
+          "descrizione": "Listing to be completed.",
+          "descrizione_completa": "Listing to be completed."
+        }
+      }
+    },
+    {
+      "tipo": "fisico",
+      "id": "donna-anelli-1",
+      "nome": "Donna - Anelli (da definire)",
+      "categoria": "donna-anelli",
+      "prezzo_centesimi": 0,
+      "descrizione": "Scheda da completare.",
+      "descrizione_completa": "Scheda da completare.",
+      "immagine": "",
+      "icona": "💎",
+      "visibile": false,
+      "tr": {
+        "en": {
+          "nome": "Women - Rings (to be defined)",
+          "descrizione": "Listing to be completed.",
+          "descrizione_completa": "Listing to be completed."
+        }
+      }
+    },
+    {
+      "tipo": "fisico",
+      "id": "donna-orecchini-1",
+      "nome": "Donna - Orecchini (da definire)",
+      "categoria": "donna-orecchini",
+      "prezzo_centesimi": 0,
+      "descrizione": "Scheda da completare.",
+      "descrizione_completa": "Scheda da completare.",
+      "immagine": "",
+      "icona": "💎",
+      "visibile": false,
+      "tr": {
+        "en": {
+          "nome": "Women - Earrings (to be defined)",
+          "descrizione": "Listing to be completed.",
+          "descrizione_completa": "Listing to be completed."
+        }
+      }
+    },
+    {
+      "tipo": "fisico",
+      "id": "donna-pendenti-1",
+      "nome": "Donna - Pendenti (da definire)",
+      "categoria": "donna-pendenti",
+      "prezzo_centesimi": 0,
+      "descrizione": "Scheda da completare.",
+      "descrizione_completa": "Scheda da completare.",
+      "immagine": "",
+      "icona": "💎",
+      "visibile": false,
+      "tr": {
+        "en": {
+          "nome": "Women - Pendants (to be defined)",
+          "descrizione": "Listing to be completed.",
+          "descrizione_completa": "Listing to be completed."
+        }
+      }
+    },
+    {
+      "tipo": "fisico",
+      "id": "uomo-bracciali-1",
+      "nome": "Uomo - Bracciali (da definire)",
+      "categoria": "uomo-bracciali",
+      "prezzo_centesimi": 0,
+      "descrizione": "Scheda da completare.",
+      "descrizione_completa": "Scheda da completare.",
+      "immagine": "",
+      "icona": "💎",
+      "visibile": false,
+      "tr": {
+        "en": {
+          "nome": "Men - Bracelets (to be defined)",
+          "descrizione": "Listing to be completed.",
+          "descrizione_completa": "Listing to be completed."
+        }
+      }
+    },
+    {
+      "tipo": "fisico",
+      "id": "uomo-collane-1",
+      "nome": "Uomo - Collane (da definire)",
+      "categoria": "uomo-collane",
+      "prezzo_centesimi": 0,
+      "descrizione": "Scheda da completare.",
+      "descrizione_completa": "Scheda da completare.",
+      "immagine": "",
+      "icona": "💎",
+      "visibile": false,
+      "tr": {
+        "en": {
+          "nome": "Men - Necklaces (to be defined)",
+          "descrizione": "Listing to be completed.",
+          "descrizione_completa": "Listing to be completed."
+        }
+      }
+    },
+    {
+      "tipo": "fisico",
+      "id": "uomo-anelli-1",
+      "nome": "Uomo - Anelli (da definire)",
+      "categoria": "uomo-anelli",
+      "prezzo_centesimi": 0,
+      "descrizione": "Scheda da completare.",
+      "descrizione_completa": "Scheda da completare.",
+      "immagine": "",
+      "icona": "💎",
+      "visibile": false,
+      "tr": {
+        "en": {
+          "nome": "Men - Rings (to be defined)",
           "descrizione": "Listing to be completed.",
           "descrizione_completa": "Listing to be completed."
         }
@@ -94,7 +328,7 @@
     {
       "tipo": "fisico",
       "id": "coppia-1",
-      "nome": "Gioiello coppia (da definire)",
+      "nome": "Coppia (da definire)",
       "categoria": "coppia",
       "prezzo_centesimi": 0,
       "descrizione": "Scheda da completare.",
@@ -104,7 +338,7 @@
       "visibile": false,
       "tr": {
         "en": {
-          "nome": "Couple piece (to be defined)",
+          "nome": "Couple (to be defined)",
           "descrizione": "Listing to be completed.",
           "descrizione_completa": "Listing to be completed."
         }
@@ -112,9 +346,9 @@
     },
     {
       "tipo": "fisico",
-      "id": "bambini-1",
-      "nome": "Gioiello bambini (da definire)",
-      "categoria": "bambini",
+      "id": "bambini-bracciali-1",
+      "nome": "Bambini - Bracciali (da definire)",
+      "categoria": "bambini-bracciali",
       "prezzo_centesimi": 0,
       "descrizione": "Scheda da completare.",
       "descrizione_completa": "Scheda da completare.",
@@ -123,7 +357,7 @@
       "visibile": false,
       "tr": {
         "en": {
-          "nome": "Children piece (to be defined)",
+          "nome": "Children - Bracelets (to be defined)",
           "descrizione": "Listing to be completed.",
           "descrizione_completa": "Listing to be completed."
         }
@@ -131,9 +365,9 @@
     },
     {
       "tipo": "fisico",
-      "id": "casa-1",
-      "nome": "Gioiello casa (da definire)",
-      "categoria": "casa",
+      "id": "bambini-collane-1",
+      "nome": "Bambini - Collane (da definire)",
+      "categoria": "bambini-collane",
       "prezzo_centesimi": 0,
       "descrizione": "Scheda da completare.",
       "descrizione_completa": "Scheda da completare.",
@@ -142,7 +376,121 @@
       "visibile": false,
       "tr": {
         "en": {
-          "nome": "Home piece (to be defined)",
+          "nome": "Children - Necklaces (to be defined)",
+          "descrizione": "Listing to be completed.",
+          "descrizione_completa": "Listing to be completed."
+        }
+      }
+    },
+    {
+      "tipo": "fisico",
+      "id": "casa-candele-1",
+      "nome": "Casa - Candele (da definire)",
+      "categoria": "casa-candele",
+      "prezzo_centesimi": 0,
+      "descrizione": "Scheda da completare.",
+      "descrizione_completa": "Scheda da completare.",
+      "immagine": "",
+      "icona": "💎",
+      "visibile": false,
+      "tr": {
+        "en": {
+          "nome": "Home - Candles (to be defined)",
+          "descrizione": "Listing to be completed.",
+          "descrizione_completa": "Listing to be completed."
+        }
+      }
+    },
+    {
+      "tipo": "fisico",
+      "id": "casa-decorazione-1",
+      "nome": "Casa - Decorazione (da definire)",
+      "categoria": "casa-decorazione",
+      "prezzo_centesimi": 0,
+      "descrizione": "Scheda da completare.",
+      "descrizione_completa": "Scheda da completare.",
+      "immagine": "",
+      "icona": "💎",
+      "visibile": false,
+      "tr": {
+        "en": {
+          "nome": "Home - Decoration (to be defined)",
+          "descrizione": "Listing to be completed.",
+          "descrizione_completa": "Listing to be completed."
+        }
+      }
+    },
+    {
+      "tipo": "fisico",
+      "id": "casa-portagioielli-1",
+      "nome": "Casa - Portagioielli (da definire)",
+      "categoria": "casa-portagioielli",
+      "prezzo_centesimi": 0,
+      "descrizione": "Scheda da completare.",
+      "descrizione_completa": "Scheda da completare.",
+      "immagine": "",
+      "icona": "💎",
+      "visibile": false,
+      "tr": {
+        "en": {
+          "nome": "Home - Jewellery holders (to be defined)",
+          "descrizione": "Listing to be completed.",
+          "descrizione_completa": "Listing to be completed."
+        }
+      }
+    },
+    {
+      "tipo": "fisico",
+      "id": "casa-portachiavi-1",
+      "nome": "Casa - Portachiavi (da definire)",
+      "categoria": "casa-portachiavi",
+      "prezzo_centesimi": 0,
+      "descrizione": "Scheda da completare.",
+      "descrizione_completa": "Scheda da completare.",
+      "immagine": "",
+      "icona": "💎",
+      "visibile": false,
+      "tr": {
+        "en": {
+          "nome": "Home - Key rings (to be defined)",
+          "descrizione": "Listing to be completed.",
+          "descrizione_completa": "Listing to be completed."
+        }
+      }
+    },
+    {
+      "tipo": "fisico",
+      "id": "casa-pietre-1",
+      "nome": "Casa - Pietre decorative (da definire)",
+      "categoria": "casa-pietre",
+      "prezzo_centesimi": 0,
+      "descrizione": "Scheda da completare.",
+      "descrizione_completa": "Scheda da completare.",
+      "immagine": "",
+      "icona": "💎",
+      "visibile": false,
+      "tr": {
+        "en": {
+          "nome": "Home - Decorative stones (to be defined)",
+          "descrizione": "Listing to be completed.",
+          "descrizione_completa": "Listing to be completed."
+        }
+      }
+    },
+    {
+      "tipo": "fisico",
+      "id": "casa-pendoli-1",
+      "nome": "Casa - Pendoli (da definire)",
+      "categoria": "casa-pendoli",
+      "prezzo_centesimi": 0,
+      "descrizione": "Scheda da completare.",
+      "descrizione_completa": "Scheda da completare.",
+      "immagine": "",
+      "icona": "💎",
+      "visibile": false,
+      "tr": {
+        "en": {
+          "nome": "Home - Pendulums (to be defined)",
           "descrizione": "Listing to be completed.",
           "descrizione_completa": "Listing to be completed."
         }

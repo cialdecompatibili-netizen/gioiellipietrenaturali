@@ -1,16 +1,57 @@
 # English dropdown menus (empty = none). Each key must be IDENTICAL to a title in navigation.yml of this folder.
 
-Jewellery:
-  - title: "Women"
-    url: /en/shop/category/women/
-  - title: "Men"
-    url: /en/shop/category/men/
-  - title: "Couple"
-    url: /en/shop/category/couple/
-  - title: "Children"
-    url: /en/shop/category/children/
-  - title: "Home"
-    url: /en/shop/category/home/
-  - divider: true
-  - title: "The whole shop"
-    url: /en/shop/
+Women:
+  - title: "Bracelets"
+    url: /en/shop/category/women-bracelets/
+  - title: "Necklaces"
+    url: /en/shop/category/women-necklaces/
+  - title: "Rings"
+    url: /en/shop/category/women-rings/
+  - title: "Earrings"
+    url: /en/shop/category/women-earrings/
+  - title: "Pendants"
+    url: /en/shop/category/women-pendants/
+
+Men:
+  - title: "Bracelets"
+    url: /en/shop/category/men-bracelets/
+  - title: "Necklaces"
+    url: /en/shop/category/men-necklaces/
+  - title: "Rings"
+    url: /en/shop/category/men-rings/
+
+Children:
+  - title: "Bracelets"
+    url: /en/shop/category/children-bracelets/
+  - title: "Necklaces"
+    url: /en/shop/category/children-necklaces/
+
+Home:
+  - title: "Candles"
+    url: /en/shop/category/home-candles/
+  - title: "Decoration"
+    url: /en/shop/category/home-decor/
+  - title: "Jewellery holders"
+    url: /en/shop/category/home-jewellery-holders/
+  - title: "Key rings"
+    url: /en/shop/category/home-keyrings/
+  - title: "Decorative stones"
+    url: /en/shop/category/home-decorative-stones/
+  - title: "Pendulums"
+    url: /en/shop/category/home-pendulums/
+
+Stones:
+  - title: "Guide to stones"
+    url: /en/stones/
+  - title: "Stones A-C"
+    url: /en/stones/a-c/
+  - title: "Stones D-L"
+    url: /en/stones/d-l/
+  - title: "Stones M-Q"
+    url: /en/stones/m-q/
+  - title: "Stones R-Z"
+    url: /en/stones/r-z/
+  - title: "The 7 chakras"
+    url: /en/stones/chakras/
+  - title: "Traditional meanings"
+    url: /en/stones/meanings/
