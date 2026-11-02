@@ -188,7 +188,7 @@ cms_homepage:
 whatsapp: ""
 whatsapp_demo: false
 # contact_endpoint: indirizzo del servizio (worker) che inoltra il modulo contatti. Vuoto = il modulo non appare.
-contact_endpoint: "https://contatti-form.evabomboniere.workers.dev"
+contact_endpoint: ""
 
 # --- SHOP (interruttore unico) ---------------------------------------------------------
 # ecommerce: true accende TUTTO lo shop: voce "Shop" nel menu (masthead.html), css/js del carrello
