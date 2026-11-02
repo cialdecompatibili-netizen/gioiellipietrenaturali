@@ -8,10 +8,10 @@
       "tr": {
         "en": {
           "nome": "Women - Bracelets",
-          "descrizione": "Women's natural stone bracelets with silver beads and an adjustable closure."
+          "descrizione": "Women's natural stone bracelets with stainless steel beads and an adjustable closure."
         }
       },
-      "descrizione": "Bracciali da donna in pietre naturali, con perle d'argento e chiusura regolabile.",
+      "descrizione": "Bracciali da donna in pietre naturali, con perle in acciaio inox e chiusura regolabile.",
       "immagine": ""
     },
     {
@@ -34,10 +34,10 @@
       "tr": {
         "en": {
           "nome": "Women - Rings",
-          "descrizione": "925 silver rings set with natural stones."
+          "descrizione": "316L stainless steel rings set with natural stones."
         }
       },
-      "descrizione": "Anelli in argento 925 con pietre naturali.",
+      "descrizione": "Anelli in acciaio inox 316L con pietre naturali.",
       "immagine": ""
     },
     {
@@ -47,10 +47,10 @@
       "tr": {
         "en": {
           "nome": "Women - Earrings",
-          "descrizione": "Earrings with natural stones and silver details."
+          "descrizione": "Earrings with natural stones and stainless steel details."
         }
       },
-      "descrizione": "Orecchini con pietre naturali e dettagli in argento.",
+      "descrizione": "Orecchini con pietre naturali e dettagli in acciaio inox.",
       "immagine": ""
     },
     {
@@ -99,10 +99,10 @@
       "tr": {
         "en": {
           "nome": "Men - Rings",
-          "descrizione": "Men's silver rings set with natural stones."
+          "descrizione": "Men's stainless steel rings set with natural stones."
         }
       },
-      "descrizione": "Anelli da uomo in argento con pietre naturali.",
+      "descrizione": "Anelli da uomo in acciaio inox con pietre naturali.",
       "immagine": ""
     },
     {
@@ -227,57 +227,57 @@
     {
       "tipo": "fisico",
       "id": "bracciale-ametista-argento",
-      "nome": "Bracciale Ametista e perle d'argento",
+      "nome": "Bracciale Ametista e perle in acciaio inox",
       "categoria": "donna-bracciali",
       "prezzo_centesimi": 6400,
-      "descrizione": "Bracciale in perle di ametista da 6 mm con piccole perle in argento, su cordino di cotone.",
-      "descrizione_completa": "Bracciale in perle di ametista da 6 mm con piccole perle in argento, su cordino di cotone.\nPietre naturali, ogni pezzo puo' avere piccole differenze di colore e venatura.\nFatto a mano.",
+      "descrizione": "Bracciale in perle di ametista da 6 mm con piccole perle in acciaio inox, su cordino di cotone.",
+      "descrizione_completa": "Bracciale in perle di ametista da 6 mm con piccole perle in acciaio inox, su cordino di cotone.\nPietre naturali, ogni pezzo puo' avere piccole differenze di colore e venatura.\nFatto a mano.",
       "immagine": "assets/images/prodotti/bracciale-ametista-argento.webp",
       "icona": "💎",
       "visibile": true,
       "tr": {
         "en": {
-          "nome": "Amethyst and silver bead bracelet",
-          "descrizione": "Bracelet of 6 mm amethyst beads with small silver beads, on a cotton cord.",
-          "descrizione_completa": "Bracelet of 6 mm amethyst beads with small silver beads, on a cotton cord.\nNatural stones: each piece may show slight differences in colour and veining.\nHandmade."
+          "nome": "Amethyst and stainless steel bead bracelet",
+          "descrizione": "Bracelet of 6 mm amethyst beads with small stainless steel beads, on a cotton cord.",
+          "descrizione_completa": "Bracelet of 6 mm amethyst beads with small stainless steel beads, on a cotton cord.\nNatural stones: each piece may show slight differences in colour and veining.\nHandmade."
         }
       }
     },
     {
       "tipo": "fisico",
       "id": "collana-tormalina-stella",
-      "nome": "Collana Tormalina con stella in argento 925",
+      "nome": "Collana Tormalina con stella in acciaio inox 316L",
       "categoria": "donna-collane",
       "prezzo_centesimi": 12800,
-      "descrizione": "Collana di perle di tormalina colorata con pendente a stella in argento 925. Lunghezza regolabile.",
-      "descrizione_completa": "Collana di perle di tormalina colorata con pendente a stella in argento 925. Lunghezza regolabile.\nPietre naturali, ogni pezzo puo' avere piccole differenze di colore e venatura.\nFatto a mano.",
+      "descrizione": "Collana di perle di tormalina colorata con pendente a stella in acciaio inox 316L. Lunghezza regolabile.",
+      "descrizione_completa": "Collana di perle di tormalina colorata con pendente a stella in acciaio inox 316L. Lunghezza regolabile.\nPietre naturali, ogni pezzo puo' avere piccole differenze di colore e venatura.\nFatto a mano.",
       "immagine": "assets/images/prodotti/collana-tormalina-stella.webp",
       "icona": "💎",
       "visibile": true,
       "tr": {
         "en": {
-          "nome": "Tourmaline necklace with 925 silver star",
-          "descrizione": "Necklace of coloured tourmaline beads with a 925 silver star pendant. Adjustable length.",
-          "descrizione_completa": "Necklace of coloured tourmaline beads with a 925 silver star pendant. Adjustable length.\nNatural stones: each piece may show slight differences in colour and veining.\nHandmade."
+          "nome": "Tourmaline necklace with 316L stainless steel star",
+          "descrizione": "Necklace of coloured tourmaline beads with a 316L stainless steel star pendant. Adjustable length.",
+          "descrizione_completa": "Necklace of coloured tourmaline beads with a 316L stainless steel star pendant. Adjustable length.\nNatural stones: each piece may show slight differences in colour and veining.\nHandmade."
         }
       }
     },
     {
       "tipo": "fisico",
       "id": "anello-peridoto-argento",
-      "nome": "Anello in argento 925 con due peridoti",
+      "nome": "Anello in acciaio inox 316L con due peridoti",
       "categoria": "donna-anelli",
       "prezzo_centesimi": 14800,
-      "descrizione": "Anello in argento 925 con due peridoti verdi. Pezzo da confermare nelle misure disponibili.",
-      "descrizione_completa": "Anello in argento 925 con due peridoti verdi. Pezzo da confermare nelle misure disponibili.\nPietre naturali, ogni pezzo puo' avere piccole differenze di colore e venatura.\nFatto a mano.",
+      "descrizione": "Anello in acciaio inox 316L con due peridoti verdi. Pezzo da confermare nelle misure disponibili.",
+      "descrizione_completa": "Anello in acciaio inox 316L con due peridoti verdi. Pezzo da confermare nelle misure disponibili.\nPietre naturali, ogni pezzo puo' avere piccole differenze di colore e venatura.\nFatto a mano.",
       "immagine": "assets/images/prodotti/anello-peridoto-argento.webp",
       "icona": "💎",
       "visibile": true,
       "tr": {
         "en": {
-          "nome": "925 silver ring with two peridots",
-          "descrizione": "925 silver ring set with two green peridots. Available sizes to be confirmed.",
-          "descrizione_completa": "925 silver ring set with two green peridots. Available sizes to be confirmed.\nNatural stones: each piece may show slight differences in colour and veining.\nHandmade."
+          "nome": "316L stainless steel ring with two peridots",
+          "descrizione": "316L stainless steel ring set with two green peridots. Available sizes to be confirmed.",
+          "descrizione_completa": "316L stainless steel ring set with two green peridots. Available sizes to be confirmed.\nNatural stones: each piece may show slight differences in colour and veining.\nHandmade."
         }
       }
     },
@@ -287,16 +287,16 @@
       "nome": "Orecchini Quarzo Rosa",
       "categoria": "donna-orecchini",
       "prezzo_centesimi": 4800,
-      "descrizione": "Orecchini pendenti con gocce di quarzo rosa e ganci in argento.",
-      "descrizione_completa": "Orecchini pendenti con gocce di quarzo rosa e ganci in argento.\nPietre naturali, ogni pezzo puo' avere piccole differenze di colore e venatura.\nFatto a mano.",
+      "descrizione": "Orecchini pendenti con gocce di quarzo rosa e ganci in acciaio inox.",
+      "descrizione_completa": "Orecchini pendenti con gocce di quarzo rosa e ganci in acciaio inox.\nPietre naturali, ogni pezzo puo' avere piccole differenze di colore e venatura.\nFatto a mano.",
       "immagine": "assets/images/prodotti/orecchini-quarzo-rosa.webp",
       "icona": "💎",
       "visibile": true,
       "tr": {
         "en": {
           "nome": "Rose quartz earrings",
-          "descrizione": "Drop earrings with rose quartz teardrops and silver hooks.",
-          "descrizione_completa": "Drop earrings with rose quartz teardrops and silver hooks.\nNatural stones: each piece may show slight differences in colour and veining.\nHandmade."
+          "descrizione": "Drop earrings with rose quartz teardrops and stainless steel hooks.",
+          "descrizione_completa": "Drop earrings with rose quartz teardrops and stainless steel hooks.\nNatural stones: each piece may show slight differences in colour and veining.\nHandmade."
         }
       }
     },
@@ -306,16 +306,16 @@
       "nome": "Pendente Lapislazzuli",
       "categoria": "donna-pendenti",
       "prezzo_centesimi": 5800,
-      "descrizione": "Pendente in lapislazzuli blu intenso con catenina in argento.",
-      "descrizione_completa": "Pendente in lapislazzuli blu intenso con catenina in argento.\nPietre naturali, ogni pezzo puo' avere piccole differenze di colore e venatura.\nFatto a mano.",
+      "descrizione": "Pendente in lapislazzuli blu intenso con catenina in acciaio inox.",
+      "descrizione_completa": "Pendente in lapislazzuli blu intenso con catenina in acciaio inox.\nPietre naturali, ogni pezzo puo' avere piccole differenze di colore e venatura.\nFatto a mano.",
       "immagine": "assets/images/prodotti/pendente-lapislazzuli.webp",
       "icona": "💎",
       "visibile": true,
       "tr": {
         "en": {
           "nome": "Lapis lazuli pendant",
-          "descrizione": "Deep blue lapis lazuli pendant with a silver chain.",
-          "descrizione_completa": "Deep blue lapis lazuli pendant with a silver chain.\nNatural stones: each piece may show slight differences in colour and veining.\nHandmade."
+          "descrizione": "Deep blue lapis lazuli pendant with a stainless steel chain.",
+          "descrizione_completa": "Deep blue lapis lazuli pendant with a stainless steel chain.\nNatural stones: each piece may show slight differences in colour and veining.\nHandmade."
         }
       }
     },
@@ -360,19 +360,19 @@
     {
       "tipo": "fisico",
       "id": "anello-uomo-onice",
-      "nome": "Anello uomo Onice nero in argento",
+      "nome": "Anello uomo Onice nero in acciaio inox",
       "categoria": "uomo-anelli",
       "prezzo_centesimi": 9800,
-      "descrizione": "Anello da uomo in argento con onice nero. Misure da confermare.",
-      "descrizione_completa": "Anello da uomo in argento con onice nero. Misure da confermare.\nPietre naturali, ogni pezzo puo' avere piccole differenze di colore e venatura.\nFatto a mano.",
+      "descrizione": "Anello da uomo in acciaio inox con onice nero. Misure da confermare.",
+      "descrizione_completa": "Anello da uomo in acciaio inox con onice nero. Misure da confermare.\nPietre naturali, ogni pezzo puo' avere piccole differenze di colore e venatura.\nFatto a mano.",
       "immagine": "",
       "icona": "💎",
       "visibile": true,
       "tr": {
         "en": {
-          "nome": "Men's black onyx silver ring",
-          "descrizione": "Men's silver ring with black onyx. Sizes to be confirmed.",
-          "descrizione_completa": "Men's silver ring with black onyx. Sizes to be confirmed.\nNatural stones: each piece may show slight differences in colour and veining.\nHandmade."
+          "nome": "Men's black onyx stainless steel ring",
+          "descrizione": "Men's stainless steel ring with black onyx. Sizes to be confirmed.",
+          "descrizione_completa": "Men's stainless steel ring with black onyx. Sizes to be confirmed.\nNatural stones: each piece may show slight differences in colour and veining.\nHandmade."
         }
       }
     },

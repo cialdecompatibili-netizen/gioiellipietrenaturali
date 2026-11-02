@@ -15,5 +15,7 @@ main:
     url: /en/stones/
   - title: "Blog"
     url: /en/blog/
+  - title: "About us"
+    url: /en/about/
   - title: "Contact"
     url: /en/contact/

@@ -1,8 +1,8 @@
 ---
 layout: negozio-prodotto
-title: "Anello uomo Onice nero in argento"
+title: "Anello uomo Onice nero in acciaio inox"
 pid: anello-uomo-onice
 permalink: /negozio/anello-uomo-onice/
-description: "Anello da uomo in argento con onice nero. Misure da confermare."
+description: "Anello da uomo in acciaio inox con onice nero. Misure da confermare."
 ref: shop-prod-anello-uomo-onice
 ---

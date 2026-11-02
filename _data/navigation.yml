@@ -24,5 +24,7 @@ main:
     url: /pietre/
   - title: "Blog"
     url: /blog/
+  - title: "Chi siamo"
+    url: /azienda/
   - title: "Contatti"
     url: /contatti/
