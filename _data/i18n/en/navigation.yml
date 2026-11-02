@@ -1,13 +1,11 @@
 main:
   - title: "Home"
     url: /en/
-  - title: "Services"
-    url: /en/services/
+  - title: "Jewellery"
+    url: /en/shop/
+  - title: "Stones"
+    url: /en/stones/
   - title: "Blog"
     url: /en/blog/
-  - title: "Shop"
-    url: /en/shop/
-  - title: "About us"
-    url: /en/about-us/
   - title: "Contact"
     url: /en/contact/

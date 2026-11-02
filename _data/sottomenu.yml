@@ -31,3 +31,18 @@
 # Per levare una tendina: cancella il blocco, la voce torna un link normale.
 # Documentazione del funzionamento: commento in testa a _includes/masthead.html.
 # =====================================================================================
+
+Gioielli:
+  - title: "Donna"
+    url: /negozio/categoria/donna/
+  - title: "Uomo"
+    url: /negozio/categoria/uomo/
+  - title: "Coppia"
+    url: /negozio/categoria/coppia/
+  - title: "Bambini"
+    url: /negozio/categoria/bambini/
+  - title: "Casa"
+    url: /negozio/categoria/casa/
+  - divider: true
+  - title: "Tutto il negozio"
+    url: /negozio/

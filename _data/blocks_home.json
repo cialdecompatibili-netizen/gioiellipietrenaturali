@@ -3,42 +3,30 @@
     "id": "hero",
     "nome": "Hero",
     "enabled": true,
-    "html": "<div class=\"gc\"><section class=\"ent-hero\"><div class=\"gc-wrap gc-hero-in\"><div><p class=\"gc-eyebrow\">Il tuo settore, in due parole</p><h1 class=\"gc-h1\">Dì in una riga cosa fai, <em>senza giri di parole.</em></h1><p class=\"gc-lead\">Racconta in due righe chi sei, che problema risolvi e per chi. Scrivila come la diresti a voce a un cliente: semplice e diretta.</p><div class=\"gc-act\"><a class=\"gc-btn gc-btn-a\" href=\"__BASEURL__/contatti/\">Scrivici</a><a class=\"gc-btn gc-btn-o\" href=\"__BASEURL__/servizi/\">Vedi cosa facciamo</a></div></div><div class=\"ent-cycle\"><div><b>Ci racconti cosa ti serve</b><span>Senza impegno, anche solo per capire da dove partire</span></div><div><b>Ti proponiamo una soluzione</b><span>Chiara, con tempi e costi detti prima</span></div><div><b>Ci mettiamo al lavoro</b><span>Ti aggiorniamo a ogni passaggio</span></div><div><b>Consegna e assistenza</b><span>Restiamo a disposizione anche dopo</span></div></div></div></section></div>"
+    "html": "<div class=\"gc\"><section class=\"ent-hero\"><div class=\"gc-wrap gc-hero-in\"><div><p class=\"gc-eyebrow\">Gioielli con pietre naturali</p><h1 class=\"gc-h1\">Bracciali, collane e anelli <em>con pietre naturali.</em></h1><p class=\"gc-lead\">Gioielli per donna, uomo, coppia e bambini, e pietre per la casa. Una guida alle pietre e consigli per sceglierle e averne cura.</p><div class=\"gc-act\"><a class=\"gc-btn gc-btn-a\" href=\"__BASEURL__/contatti/\">Chiedi informazioni</a><a class=\"gc-btn gc-btn-o\" href=\"#catalogo\">Scopri le categorie</a></div></div><div class=\"ent-cycle\"><div><b>Donna e uomo</b><span>bracciali, collane, anelli</span></div><div><b>Coppia e bambini</b><span>idee regalo</span></div><div><b>Pietre A-Z</b><span>guida alle pietre</span></div></div></div></section></div>"
   },
   {
-    "id": "contesto",
-    "nome": "Il contesto",
+    "id": "catalogo",
+    "nome": "Catalogo",
     "enabled": true,
-    "html": "<div class=\"gc\"><section class=\"gc-sec\" id=\"contesto\"><div class=\"gc-wrap\"><p class=\"gc-eyebrow\">Qualche numero</p><h2 class=\"gc-h2\">Perché è un tema che conta</h2><p class=\"gc-lead\">Una frase che spiega il contesto, con un dato vero e la sua fonte. Se non ne hai, togli questa fascia.</p><div class=\"ent-stats\"><div><b>00</b><span>Dato da inserire</span></div><div><b>00</b><span>Dato da inserire</span></div><div><b>00</b><span>Dato da inserire</span></div></div><p class=\"ent-src\">Fonte: scrivi da dove arriva il dato.</p></div></section></div>"
+    "html": "<div class=\"gc\"><section class=\"gc-sec\" id=\"catalogo\"><div class=\"gc-wrap\"><p class=\"gc-eyebrow\">Il catalogo</p><h2 class=\"gc-h2\">Cosa trovi qui</h2><div class=\"gc-plat\"><div class=\"gc-pl\"><b>Donna</b><p>Bracciali, collane, anelli e orecchini con pietre naturali.</p><p><a class=\"gc-link\" href=\"__BASEURL__/negozio/categoria/donna/\">Vai alla categoria &#8594;</a></p></div><div class=\"gc-pl\"><b>Uomo</b><p>Bracciali, collane e anelli dal gusto pi&#249; sobrio.</p><p><a class=\"gc-link\" href=\"__BASEURL__/negozio/categoria/uomo/\">Vai alla categoria &#8594;</a></p></div><div class=\"gc-pl\"><b>Coppia</b><p>Gioielli da scegliere e regalare in due.</p><p><a class=\"gc-link\" href=\"__BASEURL__/negozio/categoria/coppia/\">Vai alla categoria &#8594;</a></p></div><div class=\"gc-pl\"><b>Bambini</b><p>Piccoli bracciali e collane per i pi&#249; giovani.</p><p><a class=\"gc-link\" href=\"__BASEURL__/negozio/categoria/bambini/\">Vai alla categoria &#8594;</a></p></div><div class=\"gc-pl\"><b>Casa</b><p>Pietre da appoggio, portachiavi, candele e oggetti per la casa.</p><p><a class=\"gc-link\" href=\"__BASEURL__/negozio/categoria/casa/\">Vai alla categoria &#8594;</a></p></div></div></div></section></div>"
   },
   {
-    "id": "servizi",
-    "nome": "Servizi",
+    "id": "scegliere",
+    "nome": "Come scegliere",
     "enabled": true,
-    "html": "<div class=\"gc\"><section class=\"gc-sec gc-soft\" id=\"servizi\"><div class=\"gc-wrap\"><p class=\"gc-eyebrow\">Cosa facciamo</p><h2 class=\"gc-h2\">Come possiamo darti una mano</h2><div class=\"gc-plat ent-4\"><div class=\"gc-pl ent-pl\"><span class=\"n\">01</span><b>Il servizio principale</b><ul><li>Cosa comprende</li><li>A chi è utile</li><li>Cosa ottieni</li></ul></div><div class=\"gc-pl ent-pl\"><span class=\"n\">02</span><b>Un secondo servizio</b><ul><li>Cosa comprende</li><li>A chi è utile</li><li>Cosa ottieni</li></ul></div><div class=\"gc-pl ent-pl\"><span class=\"n\">03</span><b>Un terzo servizio</b><ul><li>Cosa comprende</li><li>A chi è utile</li><li>Cosa ottieni</li></ul></div><div class=\"gc-pl ent-pl\"><span class=\"n\">04</span><b>Un quarto servizio</b><ul><li>Cosa comprende</li><li>A chi è utile</li><li>Cosa ottieni</li></ul></div></div><p style=\"margin-top:1.6rem\"><a class=\"gc-link\" href=\"__BASEURL__/servizi/\">Guarda tutti i servizi</a></p></div></section></div>"
+    "html": "<div class=\"gc\"><section class=\"gc-sec gc-soft\" id=\"scegliere\"><div class=\"gc-wrap\"><p class=\"gc-eyebrow\">Come scegliere</p><h2 class=\"gc-h2\">Tre modi per orientarti</h2><div class=\"gc-plat\"><div class=\"gc-pl\"><b>Per pietra</b><p>Parti dalla pietra che ti piace: colore, aspetto e significato tradizionale. Nella pagina Pietre trovi una guida.</p></div><div class=\"gc-pl\"><b>Per persona</b><p>Donna, uomo, coppia o bambini: ogni categoria ha i suoi modelli.</p></div><div class=\"gc-pl\"><b>Per misura</b><p>La taglia del polso conta: leggi la guida alle taglie nel blog prima di ordinare.</p></div></div><p style=\"margin-top:1.4rem\"><a class=\"gc-btn gc-btn-k\" href=\"__BASEURL__/pietre/\">Pietre A-Z</a></p></div></section></div>"
   },
   {
-    "id": "perchi",
-    "nome": "Per chi",
+    "id": "guide",
+    "nome": "Guide",
     "enabled": true,
-    "html": "<div class=\"gc\"><section class=\"gc-sec\" id=\"perchi\"><div class=\"gc-wrap\"><p class=\"gc-eyebrow\">A chi ci rivolgiamo</p><h2 class=\"gc-h2\">Chi si trova bene con noi</h2><div class=\"gc-plat ent-4\"><div class=\"gc-pl ent-pl\"><b>Privati</b><ul><li>Una situazione in cui ci cercano spesso</li><li>Una richiesta tipica</li></ul></div><div class=\"gc-pl ent-pl\"><b>Professionisti</b><ul><li>Una situazione in cui ci cercano spesso</li><li>Una richiesta tipica</li></ul></div><div class=\"gc-pl ent-pl\"><b>Piccole aziende</b><ul><li>Una situazione in cui ci cercano spesso</li><li>Una richiesta tipica</li></ul></div><div class=\"gc-pl ent-pl\"><b>Enti e associazioni</b><ul><li>Una situazione in cui ci cercano spesso</li><li>Una richiesta tipica</li></ul></div></div></div></section></div>"
+    "html": "<div class=\"gc\"><section class=\"gc-sec\" id=\"guide\"><div class=\"gc-wrap\"><div class=\"gc-2c\"><div><p class=\"gc-eyebrow\">Dal blog</p><h2 class=\"gc-h2\">Guide</h2><p class=\"gc-lead\">Come scegliere la taglia, come curare le pietre e cosa si dice delle pietre.</p></div><div><ul class=\"gc-list\"><li>Come scegliere la taglia del bracciale</li><li>Come pulire e curare i gioielli in pietre naturali</li><li>Pietre e tradizione: cosa si dice e cosa no</li></ul><p style=\"margin-top:1.4rem\"><a class=\"gc-btn gc-btn-k\" href=\"__BASEURL__/blog/\">Leggi le guide</a></p></div></div></div></section></div>"
   },
   {
-    "id": "metodo",
-    "nome": "Come lavoriamo",
+    "id": "richiesta",
+    "nome": "Richiesta",
     "enabled": true,
-    "html": "<div class=\"gc\"><section class=\"gc-sec gc-soft\" id=\"metodo\"><div class=\"gc-wrap\"><p class=\"gc-eyebrow\">Come lavoriamo</p><h2 class=\"gc-h2\">Dalla prima chiamata alla consegna</h2><div class=\"gc-plat ent-4\"><div class=\"gc-pl\"><span class=\"n\">01</span><b>Ci parliamo</b><p>Ascoltiamo cosa ti serve, senza impegno.</p></div><div class=\"gc-pl\"><span class=\"n\">02</span><b>Ti facciamo una proposta</b><p>Tempi e costi chiari, prima di iniziare.</p></div><div class=\"gc-pl\"><span class=\"n\">03</span><b>Ci mettiamo al lavoro</b><p>Ti teniamo aggiornato a ogni passaggio.</p></div><div class=\"gc-pl\"><span class=\"n\">04</span><b>Consegniamo e restiamo a disposizione</b><p>Se dopo serve qualcosa, ci trovi.</p></div></div></div></section></div>"
-  },
-  {
-    "id": "avvisi",
-    "nome": "Blog",
-    "enabled": true,
-    "html": "<div class=\"gc\"><section class=\"gc-sec\" id=\"avvisi\"><div class=\"gc-wrap gc-2c\"><div><p class=\"gc-eyebrow\">Dal blog</p><h2 class=\"gc-h2\">Cose che ti possono servire</h2><p class=\"gc-lead\">Guide brevi e novità, scritte in modo semplice.</p><a class=\"gc-btn gc-btn-k\" href=\"__BASEURL__/blog/\">Vai al blog</a></div><div class=\"gc-pl\"><span class=\"n\">ULTIMO ARTICOLO</span><b>Il titolo del tuo ultimo articolo</b><p>Due righe per far venire voglia di leggerlo.</p></div></div></section></div>"
-  },
-  {
-    "id": "contatti",
-    "nome": "Contatti",
-    "enabled": true,
-    "html": "<div class=\"gc\"><section class=\"gc-sec gc-dark\" id=\"contatti\"><div class=\"gc-wrap\"><p class=\"gc-eyebrow\">Contatti</p><h2 class=\"gc-h2\">Scriviamoci</h2><p class=\"gc-lead\">Raccontaci di cosa hai bisogno, ti rispondiamo appena possibile.</p><a class=\"gc-btn\" href=\"__BASEURL__/contatti/\">Scrivici</a></div></section></div>"
+    "html": "<div class=\"gc\"><section class=\"gc-sec gc-dark\" id=\"richiesta\"><div class=\"gc-wrap\"><p class=\"gc-eyebrow\">Contatti</p><h2 class=\"gc-h2\">Chiedi informazioni</h2><p class=\"gc-lead\">Scrivici cosa cerchi: pietra, tipo di gioiello, misura o idea regalo. Ti rispondiamo con disponibilit&#224; e condizioni.</p><a class=\"gc-btn\" href=\"__BASEURL__/contatti/\">Contattaci</a></div></section></div>"
   }
 ]

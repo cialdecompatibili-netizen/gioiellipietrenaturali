@@ -2,33 +2,149 @@
   "_nota": "Catalogo dello shop (serve solo con ecommerce: true in _config.yml). Prezzi in CENTESIMI. Ogni prodotto/categoria ha anche una pagina in _negozio/ (layout negozio-prodotto con pid=<id>, negozio-categoria con cid=<id>). L'id categoria e' riservato. tipo: digitale (niente spedizione) o fisico. visibile:false nasconde senza cancellare. TRADUZIONI: ogni categoria/prodotto puo' avere \"tr\": {\"en\": {\"nome\": \"...\", \"descrizione\": \"...\", \"descrizione_completa\": \"...\"}}; campo mancante = si usa l'italiano.",
   "categorie": [
     {
-      "nome": "Esempio",
-      "id": "esempio",
-      "icona": "🛍️",
+      "nome": "Donna",
+      "id": "donna",
+      "icona": "💎",
       "tr": {
         "en": {
-          "nome": "Example"
+          "nome": "Women"
+        }
+      }
+    },
+    {
+      "nome": "Uomo",
+      "id": "uomo",
+      "icona": "💎",
+      "tr": {
+        "en": {
+          "nome": "Men"
+        }
+      }
+    },
+    {
+      "nome": "Coppia",
+      "id": "coppia",
+      "icona": "💎",
+      "tr": {
+        "en": {
+          "nome": "Couple"
+        }
+      }
+    },
+    {
+      "nome": "Bambini",
+      "id": "bambini",
+      "icona": "💎",
+      "tr": {
+        "en": {
+          "nome": "Children"
+        }
+      }
+    },
+    {
+      "nome": "Casa",
+      "id": "casa",
+      "icona": "💎",
+      "tr": {
+        "en": {
+          "nome": "Home"
         }
       }
     }
   ],
   "prodotti": [
     {
-      "tipo": "digitale",
-      "id": "prodotto-esempio",
-      "nome": "Prodotto di esempio",
-      "categoria": "esempio",
-      "prezzo_centesimi": 1000,
-      "descrizione": "Descrizione breve del prodotto di esempio.",
-      "descrizione_completa": "Descrizione completa del prodotto.\nOgni riga diventa un paragrafo.",
+      "tipo": "fisico",
+      "id": "donna-1",
+      "nome": "Gioiello donna (da definire)",
+      "categoria": "donna",
+      "prezzo_centesimi": 0,
+      "descrizione": "Scheda da completare.",
+      "descrizione_completa": "Scheda da completare.",
       "immagine": "",
-      "icona": "🛍️",
-      "visibile": true,
+      "icona": "💎",
+      "visibile": false,
       "tr": {
         "en": {
-          "nome": "Example product",
-          "descrizione": "Short description of the example product.",
-          "descrizione_completa": "Full description of the product.\nEach line becomes a paragraph."
+          "nome": "Women piece (to be defined)",
+          "descrizione": "Listing to be completed.",
+          "descrizione_completa": "Listing to be completed."
+        }
+      }
+    },
+    {
+      "tipo": "fisico",
+      "id": "uomo-1",
+      "nome": "Gioiello uomo (da definire)",
+      "categoria": "uomo",
+      "prezzo_centesimi": 0,
+      "descrizione": "Scheda da completare.",
+      "descrizione_completa": "Scheda da completare.",
+      "immagine": "",
+      "icona": "💎",
+      "visibile": false,
+      "tr": {
+        "en": {
+          "nome": "Men piece (to be defined)",
+          "descrizione": "Listing to be completed.",
+          "descrizione_completa": "Listing to be completed."
+        }
+      }
+    },
+    {
+      "tipo": "fisico",
+      "id": "coppia-1",
+      "nome": "Gioiello coppia (da definire)",
+      "categoria": "coppia",
+      "prezzo_centesimi": 0,
+      "descrizione": "Scheda da completare.",
+      "descrizione_completa": "Scheda da completare.",
+      "immagine": "",
+      "icona": "💎",
+      "visibile": false,
+      "tr": {
+        "en": {
+          "nome": "Couple piece (to be defined)",
+          "descrizione": "Listing to be completed.",
+          "descrizione_completa": "Listing to be completed."
+        }
+      }
+    },
+    {
+      "tipo": "fisico",
+      "id": "bambini-1",
+      "nome": "Gioiello bambini (da definire)",
+      "categoria": "bambini",
+      "prezzo_centesimi": 0,
+      "descrizione": "Scheda da completare.",
+      "descrizione_completa": "Scheda da completare.",
+      "immagine": "",
+      "icona": "💎",
+      "visibile": false,
+      "tr": {
+        "en": {
+          "nome": "Children piece (to be defined)",
+          "descrizione": "Listing to be completed.",
+          "descrizione_completa": "Listing to be completed."
+        }
+      }
+    },
+    {
+      "tipo": "fisico",
+      "id": "casa-1",
+      "nome": "Gioiello casa (da definire)",
+      "categoria": "casa",
+      "prezzo_centesimi": 0,
+      "descrizione": "Scheda da completare.",
+      "descrizione_completa": "Scheda da completare.",
+      "immagine": "",
+      "icona": "💎",
+      "visibile": false,
+      "tr": {
+        "en": {
+          "nome": "Home piece (to be defined)",
+          "descrizione": "Listing to be completed.",
+          "descrizione_completa": "Listing to be completed."
         }
       }
     }

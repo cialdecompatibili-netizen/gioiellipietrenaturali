@@ -1,1 +1,16 @@
 # English dropdown menus (empty = none). Each key must be IDENTICAL to a title in navigation.yml of this folder.
+
+Jewellery:
+  - title: "Women"
+    url: /en/shop/category/women/
+  - title: "Men"
+    url: /en/shop/category/men/
+  - title: "Couple"
+    url: /en/shop/category/couple/
+  - title: "Children"
+    url: /en/shop/category/children/
+  - title: "Home"
+    url: /en/shop/category/home/
+  - divider: true
+  - title: "The whole shop"
+    url: /en/shop/

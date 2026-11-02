@@ -68,7 +68,7 @@ permalink: /contatti/
   </div>
   <div class="cf-campo">
     <label for="cf-msg">Cosa cerchi?</label>
-    <textarea id="cf-msg" name="messaggio" rows="5" maxlength="3000" required placeholder="Scrivici la tua richiesta."></textarea>
+    <textarea id="cf-msg" name="messaggio" rows="5" maxlength="3000" required placeholder="Che pietra o gioiello cerchi? Indica anche la misura del polso o per chi è."></textarea>
   </div>
   <div style="position:absolute;left:-9999px;height:0;overflow:hidden" aria-hidden="true">
     <label for="cf-web">Non compilare</label>
