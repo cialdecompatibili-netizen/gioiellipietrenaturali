@@ -12,10 +12,11 @@ NON scrivere eta' a mano: usa <span data-eta="AAAA-MM-GG">N</span>. Nessun nome 
 @keyframes wtm-pulse{0%,100%{filter:drop-shadow(0 0 2px #ffc61a);opacity:.85}50%{filter:drop-shadow(0 0 9px #ffc61a);opacity:1}}
 @keyframes wtm-blink{0%,92%,100%{transform:scaleY(1)}95%{transform:scaleY(.1)}}
 @media (prefers-reduced-motion:reduce){.wtm-eye{animation:none}}
+.page__content :not(a) > img:not(.emoji){cursor:zoom-in}
 </style>
 
 <div id="cp-lightbox" onclick="closeLightbox()" style="display:none;position:fixed;z-index:9999;inset:0;background:rgba(0,0,0,.9);cursor:zoom-out;align-items:center;justify-content:center;flex-direction:column;">
-  <img id="cp-lightbox-img" src="" alt="" style="max-width:92vw;max-height:88vh;object-fit:contain;border-radius:8px;">
+  <img id="cp-lightbox-img" src="" alt="" style="max-width:98vw;max-height:94vh;object-fit:contain;border-radius:6px;">
   <span id="cp-lightbox-caption" style="color:#eee;margin-top:.8em;font-size:14px;"></span>
   <span onclick="closeLightbox()" style="position:absolute;top:18px;right:28px;color:#fff;font-size:32px;cursor:pointer;line-height:1;">&times;</span>
 </div>
@@ -38,6 +39,10 @@ document.addEventListener('click', function(e) {
     e.preventDefault();
     var img = trig.querySelector('img');
     openLightbox(trig.getAttribute('href') || img.src, trig.getAttribute('data-lightbox-caption') || img.alt);
+  }
+  var im = e.target.closest && e.target.closest('.page__content img');
+  if (im && !im.closest('a') && !im.classList.contains('sp-main-img') && !im.classList.contains('emoji') && (im.naturalWidth || 0) >= 120) {
+    openLightbox(im.currentSrc || im.src, im.alt);
   }
 });
 </script>
