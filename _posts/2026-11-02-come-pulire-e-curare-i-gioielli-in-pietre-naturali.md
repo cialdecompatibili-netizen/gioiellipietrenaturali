@@ -8,6 +8,8 @@ seo_title: "Come pulire e curare i gioielli in pietre naturali"
 seo_description: "Come pulire e conservare i gioielli con pietre naturali: panno morbido, evitare profumi e prodotti chimici, conservazione separata."
 categories:
   - guide
+header:
+  teaser: "/assets/images/posts/cura.webp"
 ---
 
 Le pietre naturali sono resistenti ma non indistruttibili. Alcune sono più tenere o più porose di altre, quindi conviene usare prudenza.
