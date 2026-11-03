@@ -10,5 +10,13 @@
   {
     "nome": "News",
     "descrizione": "Updates and news from the site."
+  },
+  {
+    "nome": "Stones guides and tutorials",
+    "descrizione": "How to choose, clean and wear natural stones: step-by-step guides and tutorials."
+  },
+  {
+    "nome": "Meaning of stones",
+    "descrizione": "What is said about each stone, between tradition and curiosities."
   }
 ]
