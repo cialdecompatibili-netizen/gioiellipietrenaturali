@@ -10,6 +10,8 @@ categories:
   - guide
 header:
   teaser: "/assets/images/posts/cura.webp"
+header:
+  teaser: "/assets/images/posts/cura.webp"
 ---
 
 Le pietre naturali sono resistenti ma non indistruttibili. Alcune sono più tenere o più porose di altre, quindi conviene usare prudenza.
